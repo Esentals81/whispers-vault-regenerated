@@ -12,4 +12,7 @@
     "react-dom": "18.2.0"
   }
 }
+git add package.json
+git commit -m "Add Next.js dependency"
+git push origin main
 
