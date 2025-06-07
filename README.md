@@ -1,7 +1,2 @@
-# whispers-vault-regenerated
-{
-  "framework": "nextjs",
-  "buildCommand": "npm run build",
-  "devCommand": "npm run dev"
-}
+
 
