@@ -1,5 +1,3 @@
-git add .
-git commit -m "Move package.json and vercel.json to root"
+git add package.json
+git commit -m "Fix valid JSON structure"
 git push origin main
-
-
